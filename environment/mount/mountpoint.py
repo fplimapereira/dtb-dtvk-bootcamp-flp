@@ -18,7 +18,7 @@
 
 # COMMAND ----------
 
-scopo-kv-dtvk-botcamp-prd-flp
+#scopo-kv-dtvk-botcamp-prd-flp
 
 # COMMAND ----------
 
@@ -88,7 +88,7 @@ def unmount_diretorio_lake(lst_diretorios):
     except ValueError as error:
         print(error)
         
-unmount_diretorio_lake(diretorios)   
+#unmount_diretorio_lake(diretorios)   
 
 # COMMAND ----------
 
